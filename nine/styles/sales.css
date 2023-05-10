@@ -1,0 +1,11 @@
+* {
+    background: #010100;
+}
+
+.text {
+    margin: 5vh 10vw 0 10vw;
+    text-indent: 1.5em;
+}
+body {
+    padding-bottom: 5vh;
+}

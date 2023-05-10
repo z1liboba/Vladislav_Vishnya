@@ -1,0 +1,100 @@
+* {
+    background: #010100;
+}
+
+.text {
+    margin: 5vh 10vw 0 10vw;
+
+}
+
+.grid-container {
+    display: grid;
+    height:90vh;
+    width: 100vw;
+    padding: 0 10vw 0 10vw;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas: "a b h"
+                        "a c g";
+}
+
+.mask{
+    height: 100%;
+    width:100%;
+    background: rgba(0,0,0, 0.1);
+    transition: 1s;
+    color: rgba(0,0,0,0);
+    font-size: 32px;
+    font-weight: 700;
+    padding: 68% 5% 0 5%;
+}
+
+.mask:hover{
+    transition: 1s;
+    transition-timing-function: ease-out;
+    background: rgba(0,0,0, 0.7);
+    color: white;
+}
+
+
+.div1 {
+    grid-area: a;
+    background-image: url("https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/7f0/bw0lniw1v4yspkcadi9ecyxenkrhga3c/457_457_1/dj1196-101-a.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div2 {
+    grid-area: b;
+    background-image: url("https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/7e0/457_457_1/4mdx4yozatsoq2hxqwbdievq2kefct01.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: -20%;
+}
+
+.div3 {
+    grid-area: c;
+    background-image: url("https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/f86/ykmrznaxpesxaj6puoomtvl2ctzjfdkp/457_457_1/do1925-106-a.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div4 {
+    grid-area: g;
+    background-image: url("https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/33b/j3l5jl4x9qzk2rsrcansa8y9b0jnh3z7/457_457_1/dq3976-001-a.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div5 {
+    grid-area: h;
+    background-image: url("https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/a55/xciwbddnk97iorv00u4lvzqgy5dlzg80/457_457_1/da8026-100-a.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media (max-width: 900px) {
+    .grid-container {
+        display: flex;
+        flex-direction: column;
+        width: 80vw;
+        height: 405vw;
+    }
+
+    .grid-container > div {
+        margin-top: 3vh;
+        width: 80vw;
+    }
+
+    .body {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .mask {
+        background: rgba(0,0,0, 0.7);
+        color: white;
+    }
+
+}
+

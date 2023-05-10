@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="catalog.xslt"?>
+
+<data>
+    <sneakers>
+        <product>
+            <href>https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/7f0/bw0lniw1v4yspkcadi9ecyxenkrhga3c/457_457_1/dj1196-101-a.webp</href>
+            <name>NIKE DEFYALLDAY</name>
+            <text>Кроссовки Nike DEFYALLDAY</text>
+            <cost>200</cost>
+        </product>
+        <product>
+            <href>https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/7e0/457_457_1/4mdx4yozatsoq2hxqwbdievq2kefct01.webp</href>
+            <name>NIKE BLAZER LOW 77 JUMBO</name>
+            <text>Кроссовки Nike Blazer Low '77 Jumbo, дополненные крупным логотипом Swoosh, широкими шнурками и более толстой строчкой, создают образ в стиле ретро, который тебе так нравится.</text>
+            <cost>260</cost>
+        </product>
+        <product>
+            <href>https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/f86/ykmrznaxpesxaj6puoomtvl2ctzjfdkp/457_457_1/do1925-106-a.webp</href>
+            <name>JORDAN JUMPMAN TWO TREY</name>
+            <text>Кроссовки Jordan JUMPMAN TWO TREY</text>
+            <cost>460</cost>
+        </product>
+        <product>
+            <href>https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/854/iff8su6so8zznxyekoo8yd4ndsm5127v/457_457_1/dn1856-206-a.webp</href>
+            <name>JORDAN SERIES ES</name>
+            <text>Кроссовки Jordan SERIES ES</text>
+            <cost>282</cost>
+        </product>
+        <product>
+            <href>https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/97e/yb23jf69m4vir2aaomlkmn4ip0a3dvbq/457_457_1/dv0824-100-a.webp</href>
+            <name>NIKE AIR FLIGHT LITE MID</name>
+            <text>Кроссовки Nike AIR FLIGHT LITE MID</text>
+            <cost>417</cost>
+        </product>
+        <product>
+            <href>https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/bb1/gp8p1sx1gvwd40zz4xtwen2fmpm0pwk2/457_457_1/dv2621-200-a.webp</href>
+            <name>NIKE AIR MAX 97</name>
+            <text>Кроссовки Nike AIR MAX 97 SE</text>
+            <cost>623</cost>
+        </product>
+        <product>
+            <href>https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/4a7/00s0lzmsq1jadck7hkpa0xdfp037enz4/457_457_1/dm1124-400-a.webp</href>
+            <name>NIKE AIR MAX IMPACT 4</name>
+            <text>Кроссовки Nike AIR MAX IMPACT 4</text>
+            <cost>315</cost>
+        </product>
+        <product>
+            <href>https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/cf8/hluqgxemewwpmdkd7ceot3z27j8l83j7/457_457_1/dm1123-003-a.webp</href>
+            <name>NIKE LEBRON WITNESS VII</name>
+            <text>Чем дольше продолжается легендарная карьера Леброна, тем больше его игра нуждается в дизайне, который не отягощает его, но при этом может контролировать всю эту возвышенную мощь. Итак, мы создали нашу самую легкую модель LeBron, но с надежной поддержкой, которая поможет вам оставаться впереди соперника в игре. Амортизация Max Air во всю длину помогает вам уверенно взлетать и приземляться, а легкая сетка в сочетании с удерживающими тросами помогает удерживать вас в течение четырех кварталов и более.</text>
+            <cost>352</cost>
+        </product>
+        <product>
+            <href>https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/a55/xciwbddnk97iorv00u4lvzqgy5dlzg80/457_457_1/da8026-100-a.webp</href>
+            <name>JORDAN SERIES MID</name>
+            <text>Кроссовки Jordan SERIES MID</text>
+            <cost>321</cost>
+        </product>
+        <product>
+            <href>https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/33b/j3l5jl4x9qzk2rsrcansa8y9b0jnh3z7/457_457_1/dq3976-001-a.webp</href>
+            <name>NIKE AIR MAX TERRASCAPE 97</name>
+            <text>Кроссовки Nike AIR MAX TERRASCAPE 97</text>
+            <cost>623</cost>
+        </product>
+        <product>
+            <href>https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/9d0/qgs6671pbjf2fklv492330v3vddgwn96/457_457_1/dd3111-100-a.webp</href>
+            <name>NIKE BLAZER MID 77 JUMBO</name>
+            <text>Вездесущий Nike Blazer Mid получил современный ремикс со стильными гигантскими логотипами Swoosh. Ваш повседневный образ стал немного интереснее.</text>
+            <cost>352</cost>
+        </product>
+        <product>
+            <href>https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/b9f/tcygbvoa028qsx7sw0ezh5iw0uozf5cy/457_457_1/do9355-300-a.webp</href>
+            <name>NIKE LEBRON 9 LOW LEBRONALD PALMER</name>
+            <text>Белый лайм и яркое манго! Праздник для ваших ног. LeBron IX Low с его яркой тропической тематикой привносит свежий взгляд в утоляющий жажду чай со льдом. Прославляя напиток, он сочетает в себе сочный декор из листьев и свежие цвета, такие как белый лайм, яркое манго, а также воздушную инженерную сетку и роскошную графику</text>
+            <cost>552</cost>
+        </product>
+        <product>
+            <href>https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/b0b/zo7u102dwmwdz3i4dl08nr0gfmkbdcr1/457_457_1/cz4167-003-a.webp</href>
+            <name>JORDAN MAX AURA 3</name>
+            <text>Jordan Max Aura 3 — это твоя часть наследия и истории Jordan. Вдохновленная богатым наследием баскетбольного бренда эта модель передает мощную энергетику игровых кроссовок и предстает в свежем дизайне на основе классических деталей.</text>
+            <cost>519</cost>
+        </product>
+        <product>
+            <href>https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/9b9/5h61gogs399osmnxs9claq2e2b7hbpzw/457_457_1/311046-162-a.webp</href>
+            <name>AIR JORDAN DUB ZERO</name>
+            <text>Кроссовки AIR Jordan DUB ZERO</text>
+            <cost>530</cost>
+        </product>
+        <product>
+            <href>https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/7fb/nncoht9038qqjkbhan7rra45r515z6lf/457_457_1/fd0663-001-a.webp</href>
+            <name>NIKE AIR MAX 95</name>
+            <text>Кроссовки Nike AIR MAX 95</text>
+            <cost>585</cost>
+        </product>
+        <product>
+            <href>https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/cde/gdh1jdto80we4hidjh81a108tsx03h2s/457_457_1/dm4044-100-a.webp</href>
+            <name>NIKE CORTEZ</name>
+            <text>Кроссовки Nike CORTEZ</text>
+            <cost>317</cost>
+        </product>
+        <product>
+            <href>https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/7c8/d7vldpn9he7mkv2kyskqg2hxqr41ss70/457_457_1/dx1165-100-a.webp</href>
+            <name>NIKE AIR ZOOM FLIGHT 95</name>
+            <text>Air Zoom Flight 95, одна из первых кроссовок, популяризировавших технологию Nike Zoom Air, возвращается в полную силу. Его естественные линии и футуристические «глаза жуков» отражают язык дизайна того времени. Металлические детали в сочетании с мягкой кожей создают премиальную привлекательность вне корта. Для амортизации добавлена ​​промежуточная подошва из летного пеноматериала с амортизацией Nike Air, которая завершает силуэт с неповрежденными деталями OG.</text>
+            <cost>524</cost>
+        </product>
+        <product>
+            <href>https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/758/domtu6fad9b4zuwzth2ovhd9x2677ojj/457_457_1/dj6015-003-a.webp</href>
+            <name>NIKE AIR ZOOM G.T. CUT 2</name>
+            <text>Кроссовки Nike Air Zoom GT Cut 2 помогают останавливаться в мгновение ока и ускоряться обратно на открытую дорожку благодаря конструкции с низким расположением к земле, которая помогает улучшить контакт с кортом при смене направления. Отделите игроков от плеймейкеров с помощью модели, которая построена на разделении, но при этом обеспечивает достаточную поддержку, чтобы помочь вам играть весь день.</text>
+            <cost>549</cost>
+        </product>
+        <product>
+            <href>https://all-stars.by/local/templates/newDev/upload/upload/resize_cache/iblock/72e/ait91jb32upsmds5q7dj5ef7w6czydth/457_457_1/dh1537-602-a.webp</href>
+            <name>NIKE COSMIC UNITY 2</name>
+            <text>Кроссовки Nike COSMIC UNITY 2</text>
+            <cost>489</cost>
+        </product>
+    </sneakers>
+</data>

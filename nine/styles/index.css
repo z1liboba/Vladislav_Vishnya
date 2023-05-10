@@ -1,0 +1,236 @@
+.itc-slider__item {
+    flex: 0 0 33.3333333333%;
+    max-width: 33.3333333333%;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(255,255,255, 0.8);
+    font-size: 7rem;
+}
+
+body {
+    background-color: #010100;
+}
+
+header {
+    height: 96vh;
+    background-image: url("/img/header.png") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mask {
+    height:100%;
+    background: rgba(0,0,0, 0.3);
+    transition: background 1s;
+}
+
+.slogan {
+    font-size: 6vw;
+    text-transform: uppercase;
+    margin-left: 20px;
+    padding-top: 50vh;
+    font-weight: 700;
+    letter-spacing: 12px;
+    color: rgba(255,255,255,0);
+    transition: color 2s;
+}
+
+header:hover>.mask>.slogan{
+    transition: color 2s;
+    transition-timing-function: ease-out;
+    color: rgba(255,255,255,1);
+}
+
+.header__slogan {
+    margin-left: 20px;
+    font-size: 1.5vw;
+    color: rgba(255,255,255,0);
+    transition: color 2s;
+}
+
+header:hover>.mask>.header__slogan{
+    transition: color 2s;
+    transition-timing-function: ease-out;
+    color: rgba(255,255,255,1);
+}
+
+header:hover>.mask{
+    transition: background 1s;
+    transition-timing-function: ease-out;
+    background: rgba(0,0,0, 0.7);
+}
+
+
+.itc-slider {
+    min-height: 600px;
+}
+
+.itc-slider__wrapper {
+    min-height: 600px;
+}
+
+.itc-slider__items {
+    min-height: 600px;
+}
+
+.block{
+    width: 100%;
+    min-height: 600px;
+    display: flex;
+    flex-direction: column;
+    text-align:center;
+}
+
+.block > div {
+    width: 80%;
+    margin:auto auto;
+}
+
+.block> h1, .block> .button{
+    font-size: 20px;
+    margin:auto auto;
+}
+
+.button > a, .button {
+    height: 60px;
+}
+
+.button > a{
+    margin-left: 30%;
+}
+
+.button {
+    border:2px solid #ffffff;
+    border-radius: 10px;
+    padding: 0 40px 0 40px;
+    height:30px;
+    -webkit-transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+    transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+}
+
+.button:hover {
+    box-shadow: 0 0 40px 40px #ffffff inset;
+}
+
+.button:hover > a {
+    color: black;
+}
+
+.itc-slider__item > .block > div > img {
+    width:100%;
+}
+
+.slider {
+    max-width: 1200px;
+    margin: auto auto;
+}
+
+.models{
+    display:flex;
+    flex-direction: column;
+    width: 100vw;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width:100%;
+    margin-top: 5vh;
+}
+.model{
+    height: 70vh;
+    width: 25vw;
+    background-size: 100%;
+}
+
+.maskModel {
+    font-size: 20px;
+    text-align: center;
+    padding: 50% 10px 10px 10px;
+    background: rgba(0,0,0,0.3);
+    height: 100%;
+    width: 100%;
+    transition: 1s;
+    animation-timing-function: ease-out;
+    color: rgba(255,255,255,0);
+
+}
+
+.maskModel:hover {
+    background: rgba(0,0,0,0.8);
+    transition: 1s;
+    animation-timing-function: ease-out;
+    color: rgba(255,255,255,1);
+}
+
+.model1 {
+    background: url("/img/1.png");
+}
+
+.model2 {
+    background: url("/img/2.jpg");
+}
+
+.model3 {
+    background: url("/img/3.jpg");
+}
+
+.model4 {
+    background: url("/img/4.jpg");
+}
+.model5 {
+    background: url("/img/5.jpg");
+}
+
+.model6 {
+    background: url("/img/6.jpg");
+}
+
+
+@media (max-width: 900px) {
+    .itc-slider__item {
+        flex: 0 0 100%;
+        max-width: 100%;
+        height: 700px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: rgba(255,255,255, 0.8);
+        font-size: 7rem;
+    }
+
+    .first {
+        background-position: center center;
+    }
+
+    .row {
+        flex-direction: column;
+    }
+
+    .model {
+        width: 80vw;
+        margin: 3vh 10vw 3vh 10vw;
+    }
+
+    .slogan{
+        color: rgba(255,255,255,1) !important;
+    }
+
+    .header__slogan{
+        color: rgba(255,255,255,1) !important;
+    }
+
+    .maskModel {
+        background: rgba(0,0,0,0.8) !important;
+        color: rgba(255,255,255,1) !important;
+    }
+
+   .mask{
+        background: rgba(0,0,0, 0.7) !important;
+    }
+}
+
+
